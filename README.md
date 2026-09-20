@@ -5,18 +5,23 @@
 **Senior Technical Writer**, Oracle (2013 - 2026)
 
 - Translate technical capability into customer-focused content
-- Hands-on product testing to validate the real customer experience
-- Mentor and coach 4 junior technical writers, raising documentation quality
-- Own Release Notes and Security Guide for major releases
-- Serve as lead writer for all security content
-- Discover and disclose product security vulnerabilities
-- Build custom AI tooling to scale team output and speed time-to-publish
-- Design a reusable framework for REST API documentation
-- Build tooling to improve how customers consume online help
-- Install, administer, and troubleshoot CMS (Oracle Database on Oracle Linux)
+- Own the information architecture for all Session Delivery products
+- Hands-on product testing to validate the real user experience
+- Improve quality through coaching 4 junior technical writers
+- Track customer experience with Adobe Analytics
 - Monitor accessibility compliance in documentation
-- Develop analytic tools for technical writers and information architects
+- Serve as lead writer on all security features
+- Discover and disclose product security vulnerabilities
+- Improve the accuracy and completeness of the Release Notes though automated code-based analysis
+- Develop a tool to improve and deliver online help
+- Customize DITA-OT plugins for HTML and PDF outputs
+- Install, administer, and troubleshoot CMS as Linux sysadmin
+- Migrate hundreds of thousands DITA topics to a new CMS
+- Design tools for documenting REST APIs, adopted across 4 products
 - Convert legacy documents from FrameMaker to DITA XML
+- Develop analytic tools for technical writers and information architects
+- Build AI-assisted tooling for publication analysis and review creation
+- Integrate AI-driven feedback into writing processes
 
 **Technical Writer**, Labsphere (2012 - 2013)
 
