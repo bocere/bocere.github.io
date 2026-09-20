@@ -38,6 +38,8 @@ The two products I worked on most were the [Session Border Controller](https://d
 
 ### Converged Application Server
 
+| Link | Description |
+| ---- | ----------- |
 | [Cloud Deployment Guide](https://docs.oracle.com/en/industries/communications/converged-application-server/8.3/cloud/cloud-deployment.html) | Deployed product on Kubernetes and documented the process. |
 | [REST API](https://docs.oracle.com/en/industries/communications/converged-application-server/8.3/developer/rest-management-configuration-mbeans.html) | Tested and rewrote the REST API documentation. |
 | [Intelligent Media Connector](https://docs.oracle.com/en/industries/communications/converged-application-server/8.3/imc/index.html) | Wrote a new guide for new AI-connected platform. |
