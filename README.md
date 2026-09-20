@@ -1,7 +1,39 @@
-# Ben LaVergne
-
+# Resume
 
 ## Work Experience
+
+**Senior Technical Writer**, Oracle (2013 - 2026)
+
+- Translate technical capability into customer-focused content
+- Hands-on product testing to validate the real customer experience
+- Mentor and coach 4 junior technical writers, raising documentation quality
+- Own Release Notes and Security Guide for major releases
+- Serve as lead writer for all security content
+- Discover and disclose product security vulnerabilities
+- Build custom AI tooling to scale team output and speed time-to-publish
+- Design a reusable framework for REST API documentation
+- Build tooling to improve how customers consume online help
+- Install, administer, and troubleshoot CMS (Oracle Database on Oracle Linux)
+- Monitor accessibility compliance in documentation
+- Develop analytic tools for technical writers and information architects
+- Convert legacy documents from FrameMaker to DITA XML
+
+**Technical Writer**, Labsphere (2012 - 2013)
+
+- Gathered information from mechanical drawings and engineers
+- Explained how to assemble and operate custom Labsphere systems
+- Photographed hardware and prepared CAD screenshots
+- Organized, edited & proofread technical content
+
+**English Instructor**, Multiple Colleges (2006 - 2014)
+
+- Taught and demonstrated the rhetorical modes
+- Graded papers, assignments, homework, midterms & finals
+- Facilitated learning with small-group activities
+- Developed curricula for classroom and online courses
+- Created and maintained instructions for using online software
+- Merited bonuses for retention goals and student satisfaction
+- Enrolled in Master Instructor Club
 
 ## Education
 
