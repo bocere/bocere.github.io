@@ -2,22 +2,22 @@
 
 ## Work Experience
 
-### Senior Technical Writer, Oracle (2013 – 2026)
+**Senior Technical Writer**, Oracle (2013 – 2026)
 
-**Ownership and quality**
+_Ownership and quality_
 
 - Owned the information architecture for all Session Delivery products
 - Tested products hands-on to validate the real user experience before documenting it
 - Coached 4 junior technical writers to improve quality and consistency
 - Tracked customer experience with Adobe Analytics and monitored accessibility compliance 
 
-**Security**
+_Security_
 
 - Served as lead writer on all security features
 - Discovered and responsibly disclosed product security vulnerabilities
 - Documented security features, including authentication (TACACS+, RADIUS) and lawful intercept
 
-**Tooling and automation**
+_Tooling and automation_
 
 - Designed tools for documenting REST APIs, adopted across 4 products
 - Improved the accuracy and completeness of release notes through automated code-based analysis
@@ -25,24 +25,24 @@
 - Built analytic tools for technical writers and information architects
 - Customized DITA-OT plugins for HTML and PDF outputs
 
-**CMS administration and migration**
+_CMS administration and migration_
 
 - Converted legacy documents from FrameMaker to DITA XML
 - Installed, administered, and troubleshot the CMS as Linux sysadmin
 - Migrated hundreds of thousands of DITA topics to a new CMS
 
-**AI-assisted workflows**
+_AI-assisted workflows_
 
 - Built AI-assisted tooling for publication analysis and review creation
 - Integrated AI-driven feedback into the writing process
 
-### Technical Writer, Labsphere (2012 – 2013)
+**Technical Writer**, Labsphere (2012 – 2013)
 
 - Wrote assembly and operating instructions for custom optical systems, working from mechanical drawings and engineer interviews
 - Photographed hardware and prepared CAD screenshots for procedures
 - Edited and proofread technical content 
 
-### English Instructor, Multiple Colleges (2006 – 2014)
+**English Instructor**, Multiple Colleges (2006 – 2014)
 
 - Taught composition and rhetoric, and developed curricula for classroom and online courses
 - Facilitated learning through small-group activities and written feedback on hundreds of student papers
