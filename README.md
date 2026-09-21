@@ -1,7 +1,5 @@
 # Resume
 
-Technical writer and documentation engineer with 14 years of experience documenting telecom and security products. I combine hands-on product testing, information architecture, and custom tooling to make complex software easier to use.
-
 ## Work Experience
 
 ### Senior Technical Writer, Oracle (2013 – 2026)
