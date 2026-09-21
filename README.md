@@ -1,23 +1,25 @@
 # Resume
 
+Technical writer and documentation engineer with 14 years of experience documenting telecom and security products. I combine hands-on product testing, information architecture, and custom tooling to make complex software easier to use.
+
 ## Work Experience
 
-**Senior Technical Writer**, Oracle (2013 - 2026)
+### Senior Technical Writer, Oracle (2013 – 2026)
 
-_Documentation ownership and quality_
+**Ownership and quality**
 
 - Owned the information architecture for all Session Delivery products
 - Tested products hands-on to validate the real user experience before documenting it
 - Coached 4 junior technical writers to improve quality and consistency
-- Tracked customer experience with Adobe Analytics and monitored accessibility compliance in documentation
+- Tracked customer experience with Adobe Analytics and monitored accessibility compliance 
 
-_Security_
+**Security**
 
 - Served as lead writer on all security features
 - Discovered and responsibly disclosed product security vulnerabilities
 - Documented security features, including authentication (TACACS+, RADIUS) and lawful intercept
 
-_Tooling and automation_
+**Tooling and automation**
 
 - Designed tools for documenting REST APIs, adopted across 4 products
 - Improved the accuracy and completeness of release notes through automated code-based analysis
@@ -25,71 +27,70 @@ _Tooling and automation_
 - Built analytic tools for technical writers and information architects
 - Customized DITA-OT plugins for HTML and PDF outputs
 
-_Content platform and migration_
+**CMS administration and migration**
 
 - Converted legacy documents from FrameMaker to DITA XML
 - Installed, administered, and troubleshot the CMS as Linux sysadmin
 - Migrated hundreds of thousands of DITA topics to a new CMS
 
-_AI-assisted workflows_
+**AI-assisted workflows**
 
 - Built AI-assisted tooling for publication analysis and review creation
 - Integrated AI-driven feedback into the writing process
 
-**Technical Writer**, Labsphere (2012 - 2013)
+### Technical Writer, Labsphere (2012 – 2013)
 
-- Gathered information from mechanical drawings and engineers
-- Explained how to assemble and operate custom Labsphere systems
-- Photographed hardware and prepared CAD screenshots
-- Organized, edited & proofread technical content
+- Wrote assembly and operating instructions for custom optical systems, working from mechanical drawings and engineer interviews
+- Photographed hardware and prepared CAD screenshots for procedures
+- Edited and proofread technical content 
 
-**English Instructor**, Multiple Colleges (2006 - 2014)
+### English Instructor, Multiple Colleges (2006 – 2014)
 
-- Taught and demonstrated the rhetorical modes
-- Graded papers, assignments, homework, midterms & finals
-- Facilitated learning with small-group activities
-- Developed curricula for classroom and online courses
-- Created and maintained instructions for using online software
-- Merited bonuses for retention goals and student satisfaction
-- Enrolled in Master Instructor Club
+- Taught composition and rhetoric, and developed curricula for classroom and online courses
+- Facilitated learning through small-group activities and written feedback on hundreds of student papers
+- Created and maintained instructions for using online course software
+- Earned retention and student-satisfaction bonuses
+- Enrolled in the Master Instructor Club
 
 ## Education
 
-| Institution | Degree | Years |
-| ----------- | ------ | ----- |
-| Thomas More College of Liberal Arts | Bachelor of Arts in Literature | 2000 - 2004 |
-| University of Dallas | Master of English | 2004 - 2006 |
+| Institution                         | Degree                         | Years       |
+| ----------------------------------- | ------------------------------ | ----------- |
+| University of Dallas                | Master of English              | 2004 – 2006 |
+| Thomas More College of Liberal Arts | Bachelor of Arts in Literature | 2000 – 2004 |
 
 ## Skills
 
-| Domain | Competencies |
-| ------ | ------------ | 
-| Programming Languages | Python, bash, PHP |
-| Markup Languages | Markdown, DITA XML, HTML, JSON, YAML, Swagger |
-| Content Management Systems | git, Confluence, SDL Knowledge Center, Tridion Docs, subversion |
-| Documentation Tools | Oxygen, FrameMaker, XMetaL, gimp |
-| Operating Systems | Oracle Linux, CentOS, Ubuntu, Debian, OpenBSD, Windows |
+| Domain                           | Competencies                                                    |
+| -------------------------------- | --------------------------------------------------------------- |
+| Documentation Standards & Tools  | DITA XML, DITA-OT, Oxygen, XMetaL, FrameMaker, Markdown         |
+| Content Management               | SDL Knowledge Center, Tridion Docs, Confluence                  |
+| Version Control                  | Git, Subversion                                                 |
+| API Documentation                | REST, Swagger/OpenAPI, JSON, YAML                               |
+| Programming & Scripting          | Python, Bash, PHP, HTML                                         |
+| Platforms & Infrastructure       | Oracle Linux, CentOS, Ubuntu, Debian, Windows, Kubernetes       |
+| Analytics & Graphics             | Adobe Analytics, GIMP                                           |
 
 ## Writing Samples
 
-The two products I worked on most were the [Session Border Controller](https://docs.oracle.com/en/industries/communications/session-border-controller/index.html) and the [Converged Application Server](https://docs.oracle.com/en/industries/communications/converged-application-server/index.html).
+I worked most on two products: the [Session Border Controller](https://docs.oracle.com/en/industries/communications/session-border-controller/index.html) and the [Converged Application Server](https://docs.oracle.com/en/industries/communications/converged-application-server/index.html).
 
 ### Session Border Controller
 
-| Link | Description |
-| ---- | ----------- |
-|[REST API](https://docs.oracle.com/en/industries/communications/session-border-controller/10.1.0/rest/index.html) | Wrote and used [genex](https://github.com/bocere/genex) to create code examples for each API. Personally tested every request and response for every endpoint. |
-| [HMR Guide](https://docs.oracle.com/en/industries/communications/session-border-controller/10.1.0/hmr/header-manipulation-rules.html) | Rewrote and reorganized HMR Guide for clarity. Updated and tested examples by modifying live SIP traffic in the lab. |
-| [ACLI Reference Guide](https://docs.oracle.com/en/industries/communications/session-border-controller/10.1.0/aclireference/index.html) | Improved completeness and accuracy by programmatically locating missing parameters and values. |
-| [User Accounts](https://docs.oracle.com/en/industries/communications/session-border-controller/10.1.0/configuration/user-accounts.html) | Setup TACACS+ and RADIUS servers in the lab to test and document multiple authentication methods. |
-| [Syslog and Process Logs Configuration](https://docs.oracle.com/en/industries/communications/session-border-controller/10.1.0/configuration/syslog-process-logs-configuration.html) | Wrote procedure according to Oracle Style Guide and SBC style customs. |
-| [Lawful Intercept](https://docs.oracle.com/en/industries/communications/session-border-controller/10.1.0/configuration/recommendations.html) | Maintained minimal LI public documentation and extensive highly restricted LI documentation. |
-| [License Information](https://docs.oracle.com/en/industries/communications/session-border-controller/10.1.0/lium/index.html) | Saved product owners hours of copying licenses into Word by leading a new Markdown-to-HTML publishing process. |
+| Sample | What I did |
+| ------ | ---------- |
+| [REST API](https://docs.oracle.com/en/industries/communications/session-border-controller/10.1.0/rest/index.html) | Wrote [genex](https://github.com/bocere/genex), a tool that generates code examples for each API, and personally tested each request and response for every endpoint. |
+| [HMR Guide](https://docs.oracle.com/en/industries/communications/session-border-controller/10.1.0/hmr/header-manipulation-rules.html) | Rewrote and reorganized the guide for clarity, then tested every example by modifying live SIP traffic in the lab. |
+| [ACLI Reference Guide](https://docs.oracle.com/en/industries/communications/session-border-controller/10.1.0/aclireference/index.html) | Programmatically located missing parameters and values to improve completeness and accuracy. |
+| [User Accounts](https://docs.oracle.com/en/industries/communications/session-border-controller/10.1.0/configuration/user-accounts.html) | Set up TACACS+ and RADIUS servers in the lab to test and document multiple authentication methods. |
+| [Syslog and Process Logs Configuration](https://docs.oracle.com/en/industries/communications/session-border-controller/10.1.0/configuration/syslog-process-logs-configuration.html) | Wrote a procedure that follows the Oracle Style Guide and SBC conventions. |
+| [Lawful Intercept](https://docs.oracle.com/en/industries/communications/session-border-controller/10.1.0/configuration/recommendations.html) | Maintained minimal public documentation alongside extensive, highly restricted documentation for authorized audiences. |
+| [License Information](https://docs.oracle.com/en/industries/communications/session-border-controller/10.1.0/lium/index.html) | Led a new Markdown-to-HTML publishing process that saved product owners hours of copying licenses into Word. |
 
 ### Converged Application Server
 
-| Link | Description |
-| ---- | ----------- |
-| [Cloud Deployment Guide](https://docs.oracle.com/en/industries/communications/converged-application-server/8.3/cloud/cloud-deployment.html) | Deployed product on Kubernetes and documented the process. |
+| Sample | What I did |
+| ------ | ---------- |
+| [Cloud Deployment Guide](https://docs.oracle.com/en/industries/communications/converged-application-server/8.3/cloud/cloud-deployment.html) | Deployed the product on Kubernetes and documented the process. |
 | [REST API](https://docs.oracle.com/en/industries/communications/converged-application-server/8.3/developer/rest-management-configuration-mbeans.html) | Tested and rewrote the REST API documentation. |
-| [Intelligent Media Connector](https://docs.oracle.com/en/industries/communications/converged-application-server/8.3/imc/index.html) | Wrote a new guide for new AI-connected platform. |
+| [Intelligent Media Connector](https://docs.oracle.com/en/industries/communications/converged-application-server/8.3/imc/index.html) | Wrote a new guide for an AI-connected platform. |
