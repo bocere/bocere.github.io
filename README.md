@@ -68,6 +68,7 @@ _AI-assisted workflows_
 | Programming & Scripting          | Python, Bash, PHP, HTML                                         |
 | Platforms & Infrastructure       | Oracle Linux, CentOS, Ubuntu, Debian, Windows, Kubernetes       |
 | Analytics & Graphics             | Adobe Analytics, GIMP                                           |
+| AI Tools                         | Claude Code, codex                                              |
 
 ## Writing Samples
 
