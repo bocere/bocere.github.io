@@ -7,20 +7,21 @@
 _Ownership and quality_
 
 - Owned the information architecture for all Session Delivery products
-- Tested products hands-on to validate the real user experience before documenting it
+- Tested products hands-on to validate the real user experience 
 - Coached 4 junior technical writers to improve quality and consistency
-- Tracked customer experience with Adobe Analytics and monitored accessibility compliance 
+- Tracked customer experience with Adobe Analytics
+- Wrote a script to monitor accessibility compliance in our documentation
 
 _Security_
 
 - Served as lead writer on all security features
-- Discovered and responsibly disclosed product security vulnerabilities
 - Documented security features, including authentication (TACACS+, RADIUS) and lawful intercept
+- Discovered and responsibly disclosed product security vulnerabilities
 
 _Tooling and automation_
 
-- Designed tools for documenting REST APIs, adopted across 4 products
-- Improved the accuracy and completeness of release notes through automated code-based analysis
+- Created [genex](https://github.com/bocere/genex), a tool for documenting REST APIs, adopted across 4 products
+- Improved the accuracy and completeness of the SBC Release Notes and ECP Release Notes through automated code-based analysis
 - Developed a tool to improve and deliver online help
 - Built analytic tools for technical writers and information architects
 - Customized DITA-OT plugins for HTML and PDF outputs
@@ -28,12 +29,12 @@ _Tooling and automation_
 _CMS administration and migration_
 
 - Converted legacy documents from FrameMaker to DITA XML
-- Installed, administered, and troubleshot the CMS as Linux sysadmin
-- Migrated hundreds of thousands of DITA topics to a new CMS
+- Installed, administered, and maintained [Tridion Docs](https://www.rws.com/content-management/tridion/docs/) CMS
+- Smoothly migrated tens of thousands of DITA topics to a new CMS while preserving all links and conrefs.
 
 _AI-assisted workflows_
 
-- Built AI-assisted tooling for publication analysis and review creation
+- Built AI-assisted tools to analyze publications and create doc reviews
 - Integrated AI-driven feedback into the writing process
 
 **Technical Writer**, Labsphere (2012 – 2013)
