@@ -60,16 +60,16 @@ _AI-assisted workflows_
 
 ## Skills
 
-| Domain                           | Competencies                                                    |
-| -------------------------------- | --------------------------------------------------------------- |
-| Documentation Standards & Tools  | DITA XML, DITA-OT, Oxygen, XMetaL, FrameMaker, Markdown         |
-| Content Management               | SDL Knowledge Center, Tridion Docs, Confluence                  |
-| Version Control                  | Git, Subversion                                                 |
-| API Documentation                | REST, Swagger/OpenAPI, JSON, YAML                               |
-| Programming & Scripting          | Python, Bash, PHP, HTML                                         |
-| Platforms & Infrastructure       | Oracle Linux, CentOS, Ubuntu, Debian, Windows, Kubernetes       |
-| Analytics & Graphics             | Adobe Analytics, GIMP                                           |
-| AI Tools                         | Claude Code, codex                                              |
+| Domain                      | Competencies                                                    |
+| --------------------------- | --------------------------------------------------------------- |
+| Documentation Tools         | DITA XML, DITA-OT, Oxygen, XMetaL, FrameMaker, Markdown         |
+| Content Management          | SDL Knowledge Center, Tridion Docs, Confluence                  |
+| Version Control             | Git, Subversion                                                 |
+| API Documentation           | REST, Swagger/OpenAPI, JSON, YAML                               |
+| Programming & web           | Python, Bash, PHP, HTML, CSS                                    |
+| Systems & Infrastructure    | Oracle Linux, CentOS, Ubuntu, Debian, Windows, KVM, Kubernetes  |
+| Analytics & Graphics        | Adobe Analytics, GIMP                                           |
+| AI Tools                    | Claude Code, codex                                              |
 
 ## Writing Samples
 
