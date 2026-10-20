@@ -67,8 +67,8 @@ _AI-assisted workflows_
 | Version Control             | Git, Subversion                                                 |
 | API Documentation           | REST, Swagger/OpenAPI, JSON, YAML                               |
 | Programming & web           | Python, Bash, PHP, HTML, CSS                                    |
-| Systems & Infrastructure    | Oracle Linux, CentOS, Ubuntu, Debian, Windows, KVM, Kubernetes  |
-| Analytics & Graphics        | Adobe Analytics, GIMP                                           |
+| Systems & Infrastructure    | Oracle Linux, CentOS, Ubuntu, Debian, Windows, OpenBSD, KVM, Kubernetes, Docker, Incus  |
+| Analytics                   | Adobe Analytics                                                 |
 | AI Tools                    | Claude Code, codex                                              |
 
 ## Writing Samples
