@@ -73,7 +73,7 @@ _AI-assisted workflows_
 
 ## Writing Samples
 
-I worked most on two products: the [Session Border Controller](https://docs.oracle.com/en/industries/communications/session-border-controller/index.html) and the [Converged Application Server](https://docs.oracle.com/en/industries/communications/converged-application-server/index.html).
+Here's a small collection of some things I've written.
 
 ### Session Border Controller
 
