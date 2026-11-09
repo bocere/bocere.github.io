@@ -102,6 +102,6 @@ Here's a small collection of some things I've written.
 | Sample | What I did |
 | ------ | ---------- |
 | [Acme Packet 1100](https://docs.oracle.com/en/industries/communications/acme-packet/acme-packet-1100/installation/index.html) | Author the Hardware Installation and Maintenance Guide. |
-| [Acme Packet 4900](https://docs.oracle.com/en/industries/communications/acme-packet/acme-packet-4900/instal/index.html) | Author the Hardware Installation and Maintenance Guide. |
-| [Acme Packet 6300](https://docs.oracle.com/en/industries/communications/acme-packet/acme-packet-6300/instal/index.html) | Author the Hardware Installation and Maintenance Guide. |
-| [Acme Packet 6400](https://docs.oracle.com/en/industries/communications/acme-packet/acme-packet-6400/instal/index.html) | Author the Hardware Installation and Maintenance Guide. |
+| [Acme Packet 4900](https://docs.oracle.com/en/industries/communications/acme-packet/acme-packet-4900/install/index.html) | Author the Hardware Installation and Maintenance Guide. |
+| [Acme Packet 6300](https://docs.oracle.com/en/industries/communications/acme-packet/acme-packet-6300/install/index.html) | Author the Hardware Installation and Maintenance Guide. |
+| [Acme Packet 6400](https://docs.oracle.com/en/industries/communications/acme-packet/acme-packet-6400/install/index.html) | Author the Hardware Installation and Maintenance Guide. |
