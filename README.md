@@ -8,8 +8,8 @@ _Technical Writing_
 
 - Owned the information architecture for all Session Delivery products
 - Tested products hands-on to validate the real user experience 
+- Wrote and maintained reference guides, installation guides, user guides, and release notes
 - Coached 4 junior technical writers to improve quality and consistency
-- Tracked customer experience with Adobe Analytics
 - Served as lead writer on all security features
 - Documented security features, including authentication (TACACS+, RADIUS) and lawful intercept
 
@@ -27,6 +27,7 @@ _Documentation Engineering_
 - Discovered and responsibly disclosed product security vulnerabilities
 - Built AI-assisted tools to [analyze publications](https://github.com/bocere/compare-baseline) and create doc reviews
 - Integrated AI-driven feedback into the writing process
+- Tracked customer experience with Adobe Analytics
 
 **Technical Writer**, Labsphere (2012 – 2013)
 
