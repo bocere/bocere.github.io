@@ -8,10 +8,12 @@ _Technical Writing_
 
 - Owned the information architecture for all Session Delivery products
 - Tested products hands-on to validate the real user experience 
-- Wrote and maintained reference guides, installation guides, user guides, and release notes
+- Wrote and maintained reference guides, REST API guides, installation guides, user guides, administrator guides, and release notes
 - Coached 4 junior technical writers to improve quality and consistency
 - Served as lead writer on all security features
 - Documented security features, including authentication (TACACS+, RADIUS) and lawful intercept
+
+See the [writing samples](#writing-samples).
 
 _Documentation Engineering_
 
