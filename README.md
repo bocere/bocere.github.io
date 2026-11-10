@@ -62,7 +62,7 @@ _AI-assisted workflows_
 
 | Domain                      | Competencies                                                    |
 | --------------------------- | --------------------------------------------------------------- |
-| Documentation Tools         | DITA XML, DITA-OT, Oxygen, XMetaL, FrameMaker, Markdown         |
+| Documentation Tools         | DITA XML, DITA-OT, Oxygen, XMetaL, FrameMaker, Markdown, Docusaurus, Vale   |
 | Content Management          | SDL Knowledge Center, Tridion Docs, Confluence                  |
 | Version Control             | Git, Subversion                                                 |
 | API Documentation           | REST, Swagger/OpenAPI, JSON, YAML                               |
