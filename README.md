@@ -4,37 +4,28 @@
 
 **Senior Technical Writer**, Oracle (2013 – 2026)
 
-_Ownership and quality_
+_Technical Writing_
 
 - Owned the information architecture for all Session Delivery products
 - Tested products hands-on to validate the real user experience 
 - Coached 4 junior technical writers to improve quality and consistency
 - Tracked customer experience with Adobe Analytics
-- Wrote a script to monitor accessibility compliance in our documentation
-
-_Security_
-
 - Served as lead writer on all security features
 - Documented security features, including authentication (TACACS+, RADIUS) and lawful intercept
-- Discovered and responsibly disclosed product security vulnerabilities
 
-_Tooling and automation_
-
-- Created [genex](https://github.com/bocere/genex), a tool for documenting REST APIs, adopted across 4 products
-- Improved the accuracy and completeness of the SBC Release Notes and ECP Release Notes through automated code-based analysis
-- Developed a tool to improve and deliver online help
-- Built analytic tools for technical writers and information architects
-- Customized DITA-OT plugins for HTML and PDF outputs
-
-_CMS administration and migration_
+_Documentation Engineering_
 
 - Converted legacy documents from FrameMaker to DITA XML
-- Installed, administered, and maintained [Tridion Docs](https://www.rws.com/content-management/tridion/docs/) CMS
-- Smoothly migrated tens of thousands of DITA topics to a new CMS while preserving all links and conrefs.
-
-_AI-assisted workflows_
-
-- Built AI-assisted tools to analyze publications and create doc reviews
+- Customized DITA-OT plugins for HTML and PDF outputs
+- Installed, administered, and maintained [Tridion Docs](https://www.rws.com/content-management/tridion/docs/) CMS for 7 years before leading the migration to a cheaper system.
+- Migrated tens of thousands of DITA topics to a new CMS while preserving all links and conrefs as well as our content reuse strategy.
+- Wrote a small Linux [CLI tool](https://github.com/bocere/sdlcli) to manage the metadata of topics and publications.
+- Created [genex](https://github.com/bocere/genex), a tool for documenting REST APIs, adopted across 4 products
+- Wrote a script to monitor accessibility compliance in our documentation
+- Improved the accuracy and completeness of the SBC Release Notes and ECP Release Notes through automated code-based analysis
+- Developed tools to enforce legal requirements around 3rd party open source software.
+- Discovered and responsibly disclosed product security vulnerabilities
+- Built AI-assisted tools to [analyze publications](https://github.com/bocere/compare-baseline) and create doc reviews
 - Integrated AI-driven feedback into the writing process
 
 **Technical Writer**, Labsphere (2012 – 2013)
